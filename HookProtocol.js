@@ -30,4 +30,6 @@ class HookProtocol {
 	}
 }
 
+export default HookProtocol;
+
 //eg:let P = new HookProtocol('app://redirect/test?id=8899')
